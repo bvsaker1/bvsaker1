@@ -1,7 +1,14 @@
 ## Brent Hunsaker
-I’m a Senior Full-Stack Software Engineer with extensive experience designing, building and delivering enterprise customer-facing software used by thousands of users. Much of my background is in Digital Signage, Content Management and Learning Management Systems, where I’ve worked to deliver reliable, high-performance applications in both cloud-based and native Linux environments. I’m experienced working in JavaScript, React, Node.js, Ruby on Rails, and C++, with some experience in React Native for mobile. I also have experience in embedded systems, video streaming technologies, and a wide range of media formats, which allows me to bridge hardware-level constraints with modern software solutions.
+I’m a Senior Full-Stack Software Engineer with extensive experience designing, building and delivering enterprise customer-facing software used by thousands of users. Much of my background is in [...]
 
 I am embracing the AI Revolution studying AI Engineering principles through Newline's AI Accelerator Bootcamp and am working an various AI Engineering Projects as described below.
+
+## My AI Projects
+
+| Name | Description |
+| --- | --- |
+| Project 1 | Description for project 1 |
+| Project 2 | Description for project 2 |
 
 
 <!--
