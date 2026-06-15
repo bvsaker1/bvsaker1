@@ -5,10 +5,10 @@ I am embracing the AI Revolution studying AI Engineering principles through Newl
 
 ## My AI Projects
 
-| Name | Description |
-| --- | --- |
-| Project 1 | Description for project 1 |
-| Project 2 | Description for project 2 |
+| # | Name | Description | Status |
+| --- | --- | --- | --- |
+| 1 | [Project 1](./project-1/README.md) | Description for project 1 | In Progress |
+| 2 | [Project 2](./project-2/README.md) | Description for project 2 | Planned |
 
 
 <!--
