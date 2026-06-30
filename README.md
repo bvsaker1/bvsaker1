@@ -7,7 +7,14 @@ I am embracing the AI Revolution studying AI Engineering principles through Newl
 
 | # | Name | Description | Status |
 | --- | --- | --- | --- |
-| 1 | [Home DIY Repair Q&A Synthetic Data Generator﻿](./project-1/README.md) | Description for project 1 | In Progress |
+| 1 | [Home DIY Repair Q&A Synthetic Data Generator﻿](https://github.com/ai-synthetic-data/README.md) | Builds an automated pipeline that generates high-quality synthetic Q&A data for a Home DIY Repair assistant. The pipeline generates structured repair guidance, runs data-quality checks, labels each item across 6 quality dimensions using both human review and an independent LLM-as-Judge, logs results and traces segments, and then retraces poorly performing segments to iteratively improve the generation prompt. | In Progress |
+| 2 | [AI-Powered Resume Coach: Synthetic Data Pipeline](https://github.com/ai-synthetic-data-pipeline/README.md) | Builds a production-grade synthetic data pipeline that generates, validates, and analyzes resume-job description pairs using LLMs. The system acts as an intelligent resume coach that  identifies mismatches, detects quality issues, and provides actionable feedback. | Planned |
+
+## My Other Projects
+
+| # | Name | Description | Status |
+| --- | --- | --- | --- |
+| 1 | [Full Stack MERN Project](https://github.com/mern_api/README.md) | Description for project 1 | In Progress |
 | 2 | [AI-Powered Resume Coach: Synthetic Data Pipeline](./project-2/README.md) | Description for project 2 | Planned |
 
 
