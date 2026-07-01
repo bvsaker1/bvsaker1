@@ -16,10 +16,10 @@ I am embracing the AI Revolution studying AI Engineering principles through Newl
 | # | Name | Description | Status |
 | --- | --- | --- | --- |
 | 1 | [Full Stack MERN Project](https://github.com/bvsaker1/mern_api/README.md) | A Full Stack MERN (Mongo, Express, React, Node) sharing places visited application complete with users, places visited with images and integrated with Google Maps | Completed |
-| 2 | [AllTime Baseball Game](https://github.com/bvsaker/all_time_bball_cpp/) | A C++, Windows based, stats based baseball game.  Players can pick any teams from 1900 to now and play them against each other. Features include picking your own lineups and pitchers.  Managerial features for bunting, stealing bases, intentional walks are available.  Game statistics can be saved as well as partially completed games. | Completed |
+| 2 | [AllTime Baseball Game](https://github.com/bvsaker1/all_time_bball_cpp/) | A C++, Windows based, stats based baseball game.  Players can pick any teams from 1900 to now and play them against each other. Features include picking your own lineups and pitchers.  Managerial features for bunting, stealing bases, intentional walks are available.  Game statistics can be saved as well as partially completed games. | Completed |
 | 3 | [AllTime Baseball Stats](https://github.com/bvsaker1/AllTimeStats/) | An AllTime Baseball Stats, Android based mobile application written in ReactNative, allows users to pull up statistics from any era since 1900 including team player statistics, league leaders for certain years.  Features include being able to search for players by name and show statistic leaders both career wise and individual season wise. | In Progress |
-| 4 | [AllTime Baseball Stats PHP Backend](https://github.com/bvsaker1/AllTimeStatsPHP/) | The PHP based API backend used by the AllTime Baseball Stats frontend. | Completed |
-| 5 | [AllTime Baseball Stats Rails Backend](https://github.com/bvsaker1/AllTimeStatsRails/) | The Rails based API backend used by the AllTime Baseball Stats frontend. | Completed |
+| 4 | [AllTime Baseball Stats PHP Backend](https://github.com/bvsaker1/AllTimePHP/) | The PHP based API backend used by the AllTime Baseball Stats frontend. | Completed |
+| 5 | [AllTime Baseball Stats Rails Backend](https://github.com/bvsaker1/AllTimeRails/) | The Rails based API backend used by the AllTime Baseball Stats frontend. | Completed |
 
 
 <!--
