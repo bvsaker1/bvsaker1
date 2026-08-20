@@ -8,7 +8,7 @@ I am embracing the AI Revolution studying AI Engineering principles through Newl
 | # | Name | Description | Status |
 | --- | --- | --- | --- |
 | 1 | [Home DIY Repair Q&A Synthetic Data Generator﻿](https://github.com/bvsaker1/ai-synthetic-data/blob/main/SYNTHETIC_DATA.md) | Builds an automated pipeline that generates high-quality synthetic Q&A data for a Home DIY Repair assistant. The pipeline generates structured repair guidance, runs data-quality checks, labels each item across 6 quality dimensions using both human review and an independent LLM-as-Judge, logs results and traces segments, and then retraces poorly performing segments to iteratively improve the generation prompt. | Completed |
-| 2 | [AI-Powered Resume Coach: Synthetic Data Pipeline](https://github.com/bvsaker1/ai-resume-coach/blob/main/README.md) | Builds a production-grade synthetic data pipeline that generates, validates, and analyzes resume-job description pairs using LLMs. The system acts as an intelligent resume coach that identifies mismatches, detects quality issues, and provides actionable feedback. | In Progress |
+| 2 | [AI-Powered Resume Coach: Synthetic Data Pipeline](https://github.com/bvsaker1/ai-resume-coach/blob/main/README.md) | Builds a production-grade synthetic data pipeline that generates, validates, and analyzes resume-job description pairs using LLMs. The system acts as an intelligent resume coach that identifies mismatches, detects quality issues, and provides actionable feedback. | Completed |
 
 ## My Other Projects
 
